@@ -1,0 +1,10 @@
+.lower-section {
+  height: 50px;
+  width: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pln {
+  font-size: 28px;
+}
